@@ -23,12 +23,12 @@ from mlxtend.frequent_patterns import apriori, association_rules
 
 # https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
-df_ = pd.read_excel("datasets/online_retail_II.xlsx",
+df_ = pd.read_excel("online_retail_II.xlsx",
                     sheet_name="Year 2010-2011")
 df = df_.copy() # Veri setini koruyarak işlem yapmak için bir kopyası oluşturulur.
 df.head()
 # pip install openpyxl
-# df_ = pd.read_excel("datasets/online_retail_II.xlsx",
+# df_ = pd.read_excel("online_retail_II.xlsx",
 #                     sheet_name="Year 2010-2011", engine="openpyxl")
 
 
