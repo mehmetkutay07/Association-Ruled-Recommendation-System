@@ -16,3 +16,6 @@ UnitPrice-Fatura Fiyatı(Sterlin)
 Customer ID-Eşsiz Müşteri Numarası
 Country:Ülke İsmi
 
+
+Veri setini aşağıdaki linkten indirebilirsiniz:
+https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
